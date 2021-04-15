@@ -1,2 +1,9 @@
 # flashCardApp
- A study tool designed to allow a user to create their own decks and cards for review.
+
+A React-based application that allows the creation of customd decks and cards with which to review material.
+
+## Made with:
+- Bootstrap
+- React
+- Javascript
+- HTML
